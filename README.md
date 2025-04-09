@@ -1,1 +1,1 @@
-# MED1
+# MEDIC
